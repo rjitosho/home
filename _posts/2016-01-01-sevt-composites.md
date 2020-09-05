@@ -12,7 +12,7 @@ icon:	"layup_main.jpg"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="images/sevt/top layup.jpg" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="../images/sevt/top layup.jpg" alt="" /></span></div>
 </div>
 </div>
 
