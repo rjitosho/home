@@ -13,3 +13,10 @@ icon:   "009_main.png"
 
 <p>Our team showcased TALON to an audience of over 40,000 people in December 2019 during the final presentations of the semester.</p>
 
+<div class="box alt">
+<div class="row uniform">
+<div class="4u"><span class="image fit"><img src="images/009/009_1.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/009/009_2.png" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/009/009_3.jpg" alt="" /></span></div>
+</div>
+</div>

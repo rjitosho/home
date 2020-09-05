@@ -10,4 +10,10 @@ icon:	"017_mainv2.jpg"
 
 <p>​Autonomous boat capable of maintaining any desired heading.</p>
 
+<div class="box alt">
+<div class="row uniform">
+<div class="12u$"><span class="image fit"><img src="images/017_mainv2.jpg" alt="" /></span></div>
+</div>
+</div>
+
 <p>​I designed the architecture for the feedback system including sensors and actuators as well as the housing/waterproofing of electronics within the hull.</p>
