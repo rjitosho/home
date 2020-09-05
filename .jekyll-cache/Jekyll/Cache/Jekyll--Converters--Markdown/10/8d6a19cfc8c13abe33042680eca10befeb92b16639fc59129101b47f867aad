@@ -1,12 +1,4 @@
----
-layout: default
-title:  "Gripper for Mobile Robots"
-date:   2018-08-01
-categories: research
-icon:	"gatech_main.png"
----
-
-<h1>Reflexive Gripper for Mobile Robots</h1>
+I"—<h1>Reflexive Gripper for Mobile Robots</h1>
 
 <p>A bistable, reflexive, lightweight gripper featuring a high force density and rapid activation.</p>
 
@@ -14,6 +6,7 @@ icon:	"gatech_main.png"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/gatech_main.png" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="http://localhost:4000/images/gatech_main.png" alt="" /></span></div>
 </div>
 </div>
+:ET

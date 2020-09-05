@@ -12,7 +12,7 @@ icon:	"272_main.jpg"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="images/272/lathe.jpg" alt="" /></span></div>
-<div class="12u$"><span class="image fit"><img src="images/272/stock.jpg" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/272/lathe.jpg" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/272/stock.jpg" alt="" /></span></div>
 </div>
 </div>

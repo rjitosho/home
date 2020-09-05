@@ -12,44 +12,29 @@ icon:	"141_main.png"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="images/classphoto.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/141/small1.png" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/141/small2.png" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/141/small3.png" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/141/classphoto.png" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/141/small1.jpeg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/141/small2.jpeg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/141/small3.png" alt="" /></span></div>
 </div>
 </div>
 
-<p>Below are some of the capabilities implemented during labs in this course:</p>
+<p>Below are some of the capabilities implemented during labs in this course:<br>
 ​
-<p><b>Wall Following:</b><br>
+<b>Wall Following:</b><br>
 Vehicle Dynamics<br>
-PID Controls</p>
+PID Controls<br>
 
-<p><b>Vision and Visual Servoing: </b><br>
+<b>Vision and Visual Servoing: </b><br>
 Line following via color segmentation<br>
 Transforming pixels to a plane via homography<br>
-Object detection with You Only Look Once (YOLO) algorithm paired with the Common Objects in Context (COCO) dataset</p>
+Object detection with You Only Look Once (YOLO) algorithm paired with the Common Objects in Context (COCO) dataset<br>
 
-<p><b>Localization & SLAM: </b><br>
+<b>Localization & SLAM: </b><br>
 Motion and sensor model<br>
 Proprioception based on odometry<br>
-Monte carlo localization (particle filter)</p>
+Monte carlo localization (particle filter)<br>
 
-<p><b>Planning & Trajectory Following:</b><br>
+<b>Planning & Trajectory Following:</b><br>
 Search based A*<br>
 Sample based rapidly-exploring random trees (RRT)</p>
-
-<div class="box alt">
-<div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="images/pic13.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
-</div>
-</div>

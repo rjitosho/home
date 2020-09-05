@@ -12,7 +12,7 @@ icon:	"upright_main.jpg"
 
 <h3>Suspension</h3>
 
-<p><span class="image left"><img src="images/sevt/suspension.jpg" alt="" /></span>​​We have 4 independent suspension assemblies (with one driven and three undriven wheels), which is rated for a minimum of a 1G turn, 2G bump, and 1G brake force per the race regulations. Our suspension assemblies are composed of an aluminum upright, welded steel lower a-arms, aluminum upper a-arms (since it experiences much less of the forces), and a spring shock. The wheel assembly incorporates Michelin tires, carbon fiber rims, aluminum hubs that house two ball bearings, and heat-treated steel spindles.</p>
+<p><span class="image left"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/suspension.jpg" alt="" /></span>​​We have 4 independent suspension assemblies (with one driven and three undriven wheels), which is rated for a minimum of a 1G turn, 2G bump, and 1G brake force per the race regulations. Our suspension assemblies are composed of an aluminum upright, welded steel lower a-arms, aluminum upper a-arms (since it experiences much less of the forces), and a spring shock. The wheel assembly incorporates Michelin tires, carbon fiber rims, aluminum hubs that house two ball bearings, and heat-treated steel spindles.</p>
 
 <p>​I worked with the suspension CADs to create a 4-degree caster angle for front suspensions and edited the shock tabs to optimize the angle of the spring shock. I made edits to the previous hub and spindle CADs, created drawings for both, and worked with vendors to outsource the machining of them. I manufactured the upper a-arms with a combination of the waterjet and mill, and then installed steel threaded inserts where the rod ends would be inserted. I designed and waterjetted jigs to ensure that all suspension holes through the chassis would be in the correct locations.</p>
 
@@ -20,9 +20,9 @@ icon:	"upright_main.jpg"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="4u"><span class="image fit"><img src="images/sevt/upright haas.jpg" alt="" /></span></div>
-<div class="4u"><span class="image fit"><img src="images/sevt/upright front.jpg" alt="" /></span></div>
-<div class="4u$"><span class="image fit"><img src="images/sevt/upright back.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/upright haas.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/upright front.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/upright back.jpg" alt="" /></span></div>
 </div>
 </div>
 
@@ -40,7 +40,7 @@ icon:	"upright_main.jpg"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="6u"><span class="image fit"><img src="images/sevt/pedals.jpg" alt="" /></span></div>
-<div class="6u$"><span class="image fit"><img src="images/sevt/brakes.jpg" alt="" /></span></div>
+<div class="6u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/pedals.jpg" alt="" /></span></div>
+<div class="6u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/brakes.jpg" alt="" /></span></div>
 </div>
 </div>

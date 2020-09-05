@@ -9,8 +9,8 @@
 title: Rianna Jitosho
 email: rjitosho@stanford.edu
 description: The Jekyll version of the Phantom theme by HTML5 UP.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: "https://rjitosho.github.io/" # the base hostname & protocol for your site
 
 # Logo settings
 logo-image-url: images/logo.svg
@@ -18,12 +18,12 @@ font-awesome-icon-logo:
 
 # Social settings
 github_username: rjitosho
-twitter_username: 
-facebook_URL: 
-instagram_username: 
-dribbble_username: 
-500px_username: 
-phone: 
+twitter_username:
+facebook_URL:
+instagram_username:
+dribbble_username:
+500px_username:
+phone:
 
 # Build settings
 markdown: kramdown
