@@ -36,5 +36,20 @@ Proprioception based on odometry<br>
 Monte carlo localization (particle filter)</p>
 
 <p><b>Planning & Trajectory Following:</b><br>
-Search based A\*</p><br>
+Search based A*<br>
 Sample based rapidly-exploring random trees (RRT)</p>
+
+<div class="box alt">
+<div class="row uniform">
+<div class="12u$"><span class="image fit"><img src="images/pic13.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic02.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="images/pic03.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="images/pic01.jpg" alt="" /></span></div>
+</div>
+</div>
