@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  ""
+title:  "Gripper for Mobile Robots"
 date:   2018-08-01
 categories: research
 icon:	"gatech_main.png"

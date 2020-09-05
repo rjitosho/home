@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  ""
+title:  "SEVT Mechanical Systems"
 date:   2018-05-01
 categories: systems
 icon:	"upright_main.jpg"

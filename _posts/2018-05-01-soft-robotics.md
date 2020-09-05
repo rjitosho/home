@@ -1,8 +1,8 @@
 ---
 layout: default
-title:  ""
+title:  "Soft Robotics"
 date:   2018-05-01
-categories: soft robotics
+categories: research
 icon:	"soro_main.png"
 ---
 

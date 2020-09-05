@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  ""
+title:  "Precision Machine Design"
 date:   2019-05-01
 categories: mechanical engineering
 icon:	"272_main.jpg"

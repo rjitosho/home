@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  ""
+title:  "Design and Manufacturing I"
 date:   2017-05-01
 categories: mobile robots
 icon:	"007_main.png"

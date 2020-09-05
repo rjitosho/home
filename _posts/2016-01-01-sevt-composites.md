@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  ""
+title:  "SEVT Composites Layups"
 date:   2016-01-01
 categories: systems
 icon:	"layup_main.jpg"
