@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2018-08-01
 categories: research
+icon:	"gatech_main.png"
 ---
 
 <h2>Reflexive Gripper for Mobile Robots</h2>

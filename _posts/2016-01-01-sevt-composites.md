@@ -3,7 +3,7 @@ layout: default
 title:  ""
 date:   2016-01-01
 categories: systems
-class:       "style3"
+icon:	"layup_main.jpg"
 ---
 
 <h2>SEVT Composites Layups</h2>

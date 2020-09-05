@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2017-05-01
 categories: mobile robots
+icon:	"007_main.png"
 ---
 
 <h2>2.007: Design and Manufacturing I</h2>

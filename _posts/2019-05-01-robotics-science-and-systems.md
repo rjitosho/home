@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2019-05-01
 categories: robot autonomy
+icon:	"141_main.png"
 ---
 
 
@@ -13,19 +14,19 @@ categories: robot autonomy
 <p>Below are some of the capabilities implemented during labs in this course:</p>
 ​
 <b>Wall Following:</b>
-Vehicle Dynamics
-PID Controls
+<p>Vehicle Dynamics</p>
+<p>PID Controls</p>
 
 <b>Vision and Visual Servoing: </b>
-Line following via color segmentation
-Transforming pixels to a plane via homography
-Object detection with You Only Look Once (YOLO) algorithm paired with the Common Objects in Context (COCO) dataset
+<p>Line following via color segmentation
+<p>Transforming pixels to a plane via homography
+<p>Object detection with You Only Look Once (YOLO) algorithm paired with the Common Objects in Context (COCO) dataset
 
 <b>Localization & SLAM: </b>
-Motion and sensor model 
-Proprioception based on odometry
-Monte carlo localization (particle filter)
+<p>Motion and sensor model</p> 
+<p>Proprioception based on odometry</p>
+<p>Monte carlo localization (particle filter)</p>
 
 <b>Planning & Trajectory Following: </b>
-Search based A*
-Sample based rapidly-exploring random trees (RRT)
+<p>Search based A\*</p>
+<p>Sample based rapidly-exploring random trees (RRT)</p>

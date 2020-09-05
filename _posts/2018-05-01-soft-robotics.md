@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2018-05-01
 categories: soft robotics
+icon:	"soro_main.png"
 ---
 
 <h2>Soft Robotics</h2>

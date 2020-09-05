@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2018-05-01
 categories: systems
+icon:	"upright_main.jpg"
 ---
 
 <h2>SEVT Mechanical Systems</h2>

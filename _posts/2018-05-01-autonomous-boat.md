@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2018-05-01
 categories: robot autonomy
+icon:	"017_mainv2.jpg"
 ---
 
 <h2>Autonomous Boat</h2>

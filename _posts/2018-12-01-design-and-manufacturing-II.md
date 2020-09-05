@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2018-12-01
 categories: mechanical engineering
+icon:	"008_main.jpg"
 ---
 
 <h2>Design and Manufacturing II</h2>

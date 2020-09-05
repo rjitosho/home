@@ -3,6 +3,7 @@ layout: default
 title:  ""
 date:   2019-05-01
 categories: mechanical engineering
+icon:	"272_main.jpg"
 ---
 
 <h2>Precision Machine Design</h2>
