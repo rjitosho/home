@@ -6,7 +6,7 @@ categories: robot autonomy
 icon:	"017_mainv2.jpg"
 ---
 
-<h2>Autonomous Boat</h2>
+<h1>Autonomous Boat</h1>
 
 <p>​Autonomous boat capable of maintaining any desired heading.</p>
 

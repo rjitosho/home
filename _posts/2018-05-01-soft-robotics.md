@@ -6,7 +6,7 @@ categories: research
 icon:	"soro_main.png"
 ---
 
-<h2>Soft Robotics</h2>
+<h1>Soft Robotics</h1>
 
 <p>​Proof-of-concept actuator for the locomotion of a pneumatic, bio-inspired epidermal soft robot.</p>
 

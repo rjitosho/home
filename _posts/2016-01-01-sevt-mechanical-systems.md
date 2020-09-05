@@ -6,7 +6,7 @@ categories: systems
 icon:	"upright_main.jpg"
 ---
 
-<h2>SEVT Mechanical Systems</h2>
+<h1>SEVT Mechanical Systems</h1>
 
 <p>​I contributed to each of the mechanical systems during my time on the Solar Electric Vehicle Team. Below are some of the highlights.</p>
 

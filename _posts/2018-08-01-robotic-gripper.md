@@ -6,7 +6,7 @@ categories: research
 icon:	"gatech_main.png"
 ---
 
-<h2>Reflexive Gripper for Mobile Robots</h2>
+<h1>Reflexive Gripper for Mobile Robots</h1>
 
 <p>A bistable, reflexive, lightweight gripper featuring a high force density and rapid activation.</p>
 

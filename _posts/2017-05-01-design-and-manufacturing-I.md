@@ -6,7 +6,7 @@ categories: mobile robots
 icon:	"007_main.png"
 ---
 
-<h2>2.007: Design and Manufacturing I</h2>
+<h1>2.007: Design and Manufacturing I</h1>
 
 <p>​​2.007 is the first of two Design and Manufacturing classes in the mechanical engineering department, and the class is structured around a robotics competition at the end of the semester. Students worked with energy storage and materials constraints, and they were given a range of actions that score varying amounts of points with the goal of maximizing points earned in a given period.</p>
 

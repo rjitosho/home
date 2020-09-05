@@ -6,7 +6,7 @@ categories: mechanical engineering
 icon:   "009_main.png"
 ---
 
-<h2>Product Engineering</h2>
+<h1>Product Engineering</h1>
 
 <p>This Product Engineering course covers many phases of product development including idea generation, market research, building and testing mockups, prototype evaluation, and construction of a high quality functioning alpha prototype. Over the course of one semester, our team of 20 students endeavored to develop a new product within the theme of danger. We started from hundreds of concepts and gradually honed in on the concept of an auto-retracting utility knife: TALON.</p>
 
