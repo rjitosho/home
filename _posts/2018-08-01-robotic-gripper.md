@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Reflexive Gripper for Mobile Robots"
+title:  ""
 date:   2018-08-01
 categories: research
 ---
