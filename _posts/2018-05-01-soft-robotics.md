@@ -8,7 +8,7 @@ icon:	"soro_main.png"
 
 <h1>Soft Robotics</h1>
 
-<p>​Proof-of-concept actuator for the locomotion of a pneumatic, bio-inspired epidermal soft robot.</p>
+<p>At the MIT Media Lab, I developed ​a proof-of-concept actuator for the locomotion of a pneumatic, bio-inspired epidermal soft robot. This type of robot is able to traverse the surface of human skin and can be utilized for medical applications. My contributions were prototyping a silicone actuator capable of bending in 3 directions, developing the fabrication methods, and implementing the electronic controls.</p>
 
 <div class="box alt">
 <div class="row uniform">
@@ -16,5 +16,3 @@ icon:	"soro_main.png"
 <div class="6u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/soro/soro2.jpg" alt="" /></span></div>
 </div>
 </div>
-
-<p>At the MIT Media Lab, I developed the locomotion mechanism for an epidermal robot able to traverse the surface of human skin. I designed a silicone actuator for bending in 3 directions, developed the fabrication methods, and implemented the electronic controls.</p>

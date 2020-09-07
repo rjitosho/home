@@ -12,8 +12,16 @@ icon:	"layup_main.jpg"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/top layup.jpg" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/top layup.png" alt="" /></span></div>
 </div>
 </div>
 
 <p>​​​I trained new members on best practices for working with composites. I worked with another member to do the layup for the canopy, and I assisted with laying up the upper and lower body, making chassis panels, assembling the chassis, inserting hard points, strengthening the driver pod, and creating fixtures to hold parts in place while curing.</p>
+
+<div class="box alt">
+<div class="row uniform">
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/pod.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/chassis.jpg" alt="" /></span></div>
+<div class="4u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/ri pod.jpg" alt="" /></span></div>
+</div>
+</div>

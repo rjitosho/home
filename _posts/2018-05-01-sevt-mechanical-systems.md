@@ -40,7 +40,9 @@ icon:	"upright_main.jpg"
 
 <div class="box alt">
 <div class="row uniform">
-<div class="6u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/pedals.jpg" alt="" /></span></div>
-<div class="6u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/brakes.jpg" alt="" /></span></div>
+<div class="2u"></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/pedals.jpg" alt="" /></span></div>
+<div class="4u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/sevt/brakes.jpg" alt="" /></span></div>
+<div class="2u"></div>
 </div>
 </div>
