@@ -3,7 +3,7 @@ layout: default
 title:  "Convex Optimization"
 date:   2020-06-01
 categories: motion planning
-icon:	"364_main.jpg"
+icon:	"364_main.JPG"
 ---
 
 <h1>Convex Optimization</h1>

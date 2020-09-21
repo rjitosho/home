@@ -12,6 +12,7 @@ To implement concepts covered in my Optimal Controls course, a classmate and I d
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/203_main.png" alt="" /></span></div>
+<div class="2u"></div>
+<div class="8u"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/203_main.png" alt="" /></span></div>
 </div>
 </div>
