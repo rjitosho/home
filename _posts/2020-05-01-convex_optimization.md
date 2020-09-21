@@ -12,6 +12,6 @@ As part of a convex optimization course, a classmate and I implemented multi-age
 
 <div class="box alt">
 <div class="row uniform">
-<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/364_main.jpg" alt="" /></span></div>
+<div class="12u$"><span class="image fit"><img src="{{ site.url }}{{ site.baseurl }}/images/364_main.JPG" alt="" /></span></div>
 </div>
 </div>
