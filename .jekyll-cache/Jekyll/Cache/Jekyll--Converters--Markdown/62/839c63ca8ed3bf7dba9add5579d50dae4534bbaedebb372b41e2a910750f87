@@ -1,7 +1,7 @@
-I"Á<header>
+I"&<header>
 <h1><span class="image left"><img src="http://localhost:4000/images/profile.jpg" alt="" /></span>Hello!</h1>
 
-<p>I am a graduate student at Stanford University and work on projects spanning motion planning, mobile systems, and soft robotics. I am co-advised by Allison Okamura, director of the CHARM Lab, and Zac Manchester, director of the REX Lab. </p>
+<p>I am a graduate student at Stanford University and work on projects spanning motion planning, mobile systems, and soft robotics. I am co-advised by Allison Okamura, director of the <a href="https://charm.stanford.edu/">CHARM Lab</a>, and Zac Manchester, director of the <a href="https://roboticexplorationlab.org/">REX Lab</a>.</p>
 
 <p>I completed my undergraduate degree at the Massachusetts Institute of Technology, where I worked on projects in robotics and solar-powered electric vehicles.</p>
 </header>
@@ -11,6 +11,42 @@
 
 	<article class="style2">
 		<span class="image">
+			<img src="http://localhost:4000/images/vine_main.png" alt="" />
+		</span>
+		<a href="http://localhost:4000/research/2020/06/01/vine.html">
+			<h2>Real-time Dynamics Simulator</h2>
+		</a>
+	</article>
+
+	<article class="style3">
+		<span class="image">
+			<img src="http://localhost:4000/images/364_main.jpg" alt="" />
+		</span>
+		<a href="http://localhost:4000/research/2020/06/01/convex_optimization.html">
+			<h2>Convex Optimization</h2>
+		</a>
+	</article>
+
+	<article class="style4">
+		<span class="image">
+			<img src="http://localhost:4000/images/203_main.png" alt="" />
+		</span>
+		<a href="http://localhost:4000/motion/planning/2020/05/01/optimal-control.html">
+			<h2>Optimal Control</h2>
+		</a>
+	</article>
+
+	<article class="style5">
+		<span class="image">
+			<img src="http://localhost:4000/images/218_main.jpg" alt="" />
+		</span>
+		<a href="http://localhost:4000/mobile/robots/2019/12/01/mechatronics.html">
+			<h2>Mechatronics: Smart Product Design</h2>
+		</a>
+	</article>
+
+	<article class="style6">
+		<span class="image">
 			<img src="http://localhost:4000/images/009_main.png" alt="" />
 		</span>
 		<a href="http://localhost:4000/mechanical/engineering/2019/12/01/product-engineering.html">
@@ -18,7 +54,7 @@
 		</a>
 	</article>
 
-	<article class="style3">
+	<article class="style1">
 		<span class="image">
 			<img src="http://localhost:4000/images/141_main.png" alt="" />
 		</span>
@@ -27,7 +63,7 @@
 		</a>
 	</article>
 
-	<article class="style4">
+	<article class="style2">
 		<span class="image">
 			<img src="http://localhost:4000/images/272_main.jpg" alt="" />
 		</span>
@@ -36,7 +72,7 @@
 		</a>
 	</article>
 
-	<article class="style5">
+	<article class="style3">
 		<span class="image">
 			<img src="http://localhost:4000/images/008_main.jpg" alt="" />
 		</span>
@@ -45,7 +81,7 @@
 		</a>
 	</article>
 
-	<article class="style6">
+	<article class="style4">
 		<span class="image">
 			<img src="http://localhost:4000/images/gatech_main.png" alt="" />
 		</span>
@@ -54,7 +90,7 @@
 		</a>
 	</article>
 
-	<article class="style1">
+	<article class="style5">
 		<span class="image">
 			<img src="http://localhost:4000/images/017_mainv2.jpg" alt="" />
 		</span>
@@ -63,7 +99,7 @@
 		</a>
 	</article>
 
-	<article class="style2">
+	<article class="style6">
 		<span class="image">
 			<img src="http://localhost:4000/images/soro_main.png" alt="" />
 		</span>
@@ -72,7 +108,7 @@
 		</a>
 	</article>
 
-	<article class="style3">
+	<article class="style1">
 		<span class="image">
 			<img src="http://localhost:4000/images/sevt_main.jpg" alt="" />
 		</span>
@@ -81,7 +117,7 @@
 		</a>
 	</article>
 
-	<article class="style4">
+	<article class="style2">
 		<span class="image">
 			<img src="http://localhost:4000/images/upright_main.jpg" alt="" />
 		</span>
@@ -90,7 +126,7 @@
 		</a>
 	</article>
 
-	<article class="style5">
+	<article class="style3">
 		<span class="image">
 			<img src="http://localhost:4000/images/layup_main.jpg" alt="" />
 		</span>
@@ -99,7 +135,7 @@
 		</a>
 	</article>
 
-	<article class="style6">
+	<article class="style4">
 		<span class="image">
 			<img src="http://localhost:4000/images/007_main.png" alt="" />
 		</span>
