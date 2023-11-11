@@ -1,9 +1,7 @@
-I"r<header>
+I"e<header>
 <h1><span class="image left"><img src="http://localhost:4000/images/profile.jpg" alt="" /></span>Hello!</h1>
 
-<p>I am a graduate student at Stanford University, and I am co-advised by <a href="http://charm.stanford.edu/Main/AllisonOkamura">Allison Okamura</a> and <a href="https://tml.stanford.edu/people/karen-liu">Karen Liu</a>. I completed my undergraduate degree at the Massachusetts Institute of Technology, where I worked on projects in robotics and solar-powered electric vehicles. My current interests span the areas of motion planning and controls, mobile systems, and soft robotics.</p>
-
-<p>Feel free to check out my past projects below, and my CV/publications can be accessed from the navigation bar.</p>
+<p>I am a graduate student at Stanford University, and I am co-advised by <a href="http://charm.stanford.edu/Main/AllisonOkamura">Allison Okamura</a> and <a href="https://tml.stanford.edu/people/karen-liu">Karen Liu</a>. I completed my undergraduate degree at the Massachusetts Institute of Technology, where I worked on projects in robotics and solar-powered electric vehicles. My current interests span the areas of motion planning and controls, mobile systems, and soft robotics. Feel free to check out my past projects below, and my CV/publications can be accessed from the navigation bar.</p>
 </header>
 
 <section class="tiles">
@@ -13,7 +11,7 @@
 		<span class="image">
 			<img src="http://localhost:4000/images/eth_main.png" alt="" />
 		</span>
-		<a href="http://localhost:4000/research/2023/06/01/ETH.html">
+		<a href="http://localhost:4000/research/2023/07/01/ETH.html">
 			<h2>Omnidirectional Aerial Vehicles</h2>
 		</a>
 	</article>
@@ -29,9 +27,9 @@
 
 	<article class="style4">
 		<span class="image">
-			<img src="http://localhost:4000/images/hri_main.png" alt="" />
+			<img src="http://localhost:4000/images/hri.png" alt="" />
 		</span>
-		<a href="http://localhost:4000/research/2023/06/01/HRI.html">
+		<a href="http://localhost:4000/research/2021/06/01/HRI.html">
 			<h2>In-Hand Manipulation</h2>
 		</a>
 	</article>
