@@ -1,0 +1,12 @@
+I"‚<h1>Omnidirectional Micro Aerial Vehicles</h1>
+
+<p>I engaged in a research visit at the Autonomous Systems Lab (ASL) at ETH Zurich in the summer of 2023. ASL has been developing omnidirectional micro aerial vehicles (OMAVs) over the last several years, and their current platform features six rotors mounted on tiltable arms. With the introduction of overactuation, there are open questions about the optimal allocation of actuation across the rotors and tilt-arms. The objective of my work was twofold: first, to analyze the current physics-based allocation method, and second, to investigate the integration of learning-based methods to enhance the performance of OMAVs.</p>
+
+<div class="box alt">
+<div class="row uniform">
+<div class="2u"></div>
+<div class="8u"><span class="image fit"><img src="http://localhost:4000/images/eth.PNG" alt="" /></span></div>
+<div class="2u$"></div>
+</div>
+</div>
+:ET
