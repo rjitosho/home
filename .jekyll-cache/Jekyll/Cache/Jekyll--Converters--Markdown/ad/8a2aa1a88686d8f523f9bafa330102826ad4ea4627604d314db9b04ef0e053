@@ -11,7 +11,7 @@
 		<span class="image">
 			<img src="http://localhost:4000/images/eth_main.png" alt="" />
 		</span>
-		<a href="http://localhost:4000/research/2023/06/01/ETH.html">
+		<a href="http://localhost:4000/research/2023/07/01/ETH.html">
 			<h2>Omnidirectional Aerial Vehicles</h2>
 		</a>
 	</article>
@@ -27,9 +27,9 @@
 
 	<article class="style4">
 		<span class="image">
-			<img src="http://localhost:4000/images/hri.png" alt="" />
+			<img src="http://localhost:4000/images/hri.PNG" alt="" />
 		</span>
-		<a href="http://localhost:4000/research/2023/06/01/HRI.html">
+		<a href="http://localhost:4000/research/2021/06/01/HRI.html">
 			<h2>In-Hand Manipulation</h2>
 		</a>
 	</article>
