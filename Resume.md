@@ -4,4 +4,4 @@ title: CV
 featured-image:
 ---
 
-<iframe src="/Jitosho_CV_2024_06_07.pdf" width="100%" height="800px"></iframe>
+<iframe src="/Jitosho_CV_2024_09_25.pdf" width="100%" height="800px"></iframe>
